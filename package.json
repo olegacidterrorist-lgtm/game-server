@@ -1,7 +1,6 @@
 {
   "name": "threejs-game-server",
   "version": "1.0.0",
-  "description": "Multiplayer 3D game server",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
